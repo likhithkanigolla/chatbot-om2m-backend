@@ -1,0 +1,9 @@
+const URL = "http://onem2m.iiit.ac.in:443";
+const username = "iiith_guest";
+const password = "iiith_guest";
+
+module.exports = {
+  URL,
+  username,
+  password,
+};
